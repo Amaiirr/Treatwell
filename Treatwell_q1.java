@@ -20,7 +20,7 @@ public class Treatwell_q1
         //if width is negative
         if(w<0)
         {
-            System.out.println("You have entered a wrong height");
+            System.out.println("You have entered a wrong width");
             System.exit(0);
         }
         
